@@ -10,11 +10,9 @@ import SignUp from "./components/Signup-login/signup-guide";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
       <Nav />
       {/* <Router /> */}
-      </header>
-      <ExperiencesCard />
+      {/* <ExperiencesCard /> */}
       <SignIn />
       <SignUp />
     </div>
