@@ -16,4 +16,4 @@ export function Router() {
     );
 }
 
-// 
+// still need to set up route links and get the useeffect api barkin muchacho
