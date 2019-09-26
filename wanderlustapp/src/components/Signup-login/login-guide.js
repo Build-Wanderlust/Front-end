@@ -21,7 +21,7 @@ const useStyles = makeStyles(theme => ({
   },
   image: {
     backgroundImage: 'url(https://source.unsplash.com/random)',
-w    backgroundSize: 'cover',
+    backgroundSize: 'cover',
     backgroundPosition: 'center',
   },
   paper: {

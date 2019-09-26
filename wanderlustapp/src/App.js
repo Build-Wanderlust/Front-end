@@ -13,7 +13,7 @@ function App() {
       <Nav />
       {/* <Router /> */}
       <ExperiencesCard />
-      {/* <SignIn /> */}
+      <SignIn />
       <SignUp />
     </div>
   );
