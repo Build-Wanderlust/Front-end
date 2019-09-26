@@ -70,7 +70,7 @@ const useStyles = makeStyles(theme => ({
         />
         <CardMedia
           className={classes.media}
-          image="/img/wanderlustv1.4.jpg"
+          image=""
           title="Paella dish"
         />
         <CardContent>
