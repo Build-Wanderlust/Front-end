@@ -12,8 +12,8 @@ function App() {
     <div className="App">
       <Nav />
       {/* <Router /> */}
-      {/* <ExperiencesCard /> */}
-      <SignIn />
+      <ExperiencesCard />
+      {/* <SignIn /> */}
       <SignUp />
     </div>
   );
