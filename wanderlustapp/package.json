@@ -21,10 +21,10 @@
     "yup": "^0.27.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "npm react-scripts start",
     "build": "npm react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "npm react-scripts test",
+    "eject": "npm react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
