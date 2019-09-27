@@ -71,7 +71,7 @@ const useStyles = makeStyles(theme => ({
         <CardMedia
           className={classes.media}
           image=""
-          title="Paella dish"
+          title="Mile High Hot Air Balloon Club"
         />
         <CardContent>
           <Typography variant="body2" color="textSecondary" component="p">
